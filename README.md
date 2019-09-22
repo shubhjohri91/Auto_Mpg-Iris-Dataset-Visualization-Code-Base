@@ -1,2 +1,2 @@
-# Auto_Mpg-Iris-Dataset-Visulaization-Code-Base
+# Auto_Mpg-Iris-Dataset-Visualization-Code-Base
 Data visualization using seaborn and matplotlib
